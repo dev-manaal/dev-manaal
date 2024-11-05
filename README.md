@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Manaal%20Fatima&fontSize=190)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Manaal%20Fatima&fontSize=90)
 [![GitHub dev-manaal](https://img.shields.io/github/followers/dev-manaal?label=follow&style=social)](https://github.com/dev-manaal)
 [![Linkedin: manaal-fatima](https://img.shields.io/badge/-Mannal%20Fatima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manaal-fatima/)](https://www.linkedin.com/in/manaal-fatima/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-manaal&label=Profile%20views&color=0e75b6&style=flat" alt="dev-manaal" /> </p>
