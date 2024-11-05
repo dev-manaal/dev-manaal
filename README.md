@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/dev-manaal/dev-manaal/blob/58f785a2e44bcf71d70ba076c211c4c7b4370744/git-bg.jpg)
 [![GitHub dev-manaal](https://img.shields.io/github/followers/dev-manaal?label=follow&style=social)](https://github.com/dev-manaal)
 [![Linkedin: manaal-fatima](https://img.shields.io/badge/-Mannal%20Fatima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manaal-fatima/)](https://www.linkedin.com/in/manaal-fatima/)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=dev-manaal&left_color=gray&right_color=blue)
+![Visitors](https://visitor-badges.glitch.me/badge?page_id=dev-manaal.profile&left_color=gray&right_color=blue)
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 🄸 🄰🄼 🄼🄰🄽🄰🄰🄻 🄵🄰🅃🄸🄼🄰
 
 
