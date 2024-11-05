@@ -2,16 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=Manaal%20Fatima&fontSize=90" width="100%" alt="header">
 
 <!-- Badges in a single line -->
-<p align="left">
-  <a href="https://github.com/dev-manaal">
-    <img src="https://img.shields.io/github/followers/dev-manaal?label=follow&style=social" alt="GitHub dev-manaal" />
-  </a>
-  <a href="https://www.linkedin.com/in/manaal-fatima/">
-    <img src="https://img.shields.io/badge/-Manaal%20Fatima-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Manaal Fatima" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=dev-manaal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
+<div align="center">
+<a href="https://github.com/dev-manaal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/manaal-fatima" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/miss_sayed7860" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 🄸 🄰🄼 🄼🄰🄽🄰🄰🄻 🄵🄰🅃🄸🄼🄰
 
 
