@@ -11,7 +11,7 @@
 <b>
 Welcome to my Github profile!</b> <br>
 Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
-<i>Let's Connect with me:.</i>
+<i>Let's Connect with me:</i>
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/manaal-fatima/">
@@ -21,7 +21,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <!-- <a href="https://twitter.com/i_amsekh">
     <img width="28px" src="/assests/twitter.svg" />
   </a>   -->
-  &nbsp;
   <a href="https://www.instagram.com/miss_sayed7860">
     <img width="28px" src="/assests/instagram.svg" />
   </a> 
