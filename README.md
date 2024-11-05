@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=Manaal%20Fatima&fontSize=90" width="100%" alt="header">
 
 <!-- Badges in a single line -->
-<div align="left">
+<div align="center">
 <a href="https://github.com/dev-manaal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
