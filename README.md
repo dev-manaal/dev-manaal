@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/dev-manaal/dev-manaal/blob/82f34d2a7a8f59b039b0608d87bcebf808d29cf1/git-bg.jpg)
+![MasterHead](https://github.com/dev-manaal/dev-manaal/blob/710e24240b8e2aa501daf81c692657d7a25d84b0/git-bg.jpg)
 [![GitHub dev-manaal](https://img.shields.io/github/followers/dev-manaal?label=follow&style=social)](https://github.com/dev-manaal)
 [![Linkedin: manaal-fatima](https://img.shields.io/badge/-Mannal%20Fatima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manaal-fatima/)](https://www.linkedin.com/in/iamsekh/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dev-manaal&left_color=gray&right_color=blue)
